@@ -40,3 +40,8 @@ function decrement(n) {
   number--
   return number
 }
+
+makeInt(n) {
+  parseInt(n, 10)
+  return n
+}
