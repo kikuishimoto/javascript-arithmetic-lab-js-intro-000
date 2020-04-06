@@ -30,5 +30,6 @@ function divide(a,b) {
 }
 
 function increment(n) {
-  return n++ +1
+  var number = n
+  return number
 }
