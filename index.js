@@ -34,3 +34,9 @@ function increment(n) {
   number++
   return number
 }
+
+function decrement(n) {
+  var number = n
+  number--
+  return number
+}
